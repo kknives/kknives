@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kknives
+- 👋 Hi, I’m Shashwat!
 - 👀 I’m interested in Mathematics, Systems Programming, Tools programming
 - 🌱 I’m currently learning Haskell, Rust, Erlang
 - 💞️ I’m looking to collaborate on anything, just contact me!
